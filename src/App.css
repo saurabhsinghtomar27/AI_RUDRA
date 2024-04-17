@@ -8,3 +8,7 @@
 .textown{
     width: 800px;
 }
+.mainclass{
+    display: flex;
+    align-items: center;
+}

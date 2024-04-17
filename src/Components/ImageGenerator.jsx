@@ -38,7 +38,7 @@ function ImageGenerator() {
       
   return (
     <>
-    <div className='justify-center m-12'>
+    <div className='justify-center m-12 mainclass'>
       <div>
     <h1 className='text-3xl font-bold py-1 flex'> <span className='text-white'>AI </span><span className='underline decoration-sky-500 text-red-600 px-2'>RUDRA</span></h1>
     <div className=''>
